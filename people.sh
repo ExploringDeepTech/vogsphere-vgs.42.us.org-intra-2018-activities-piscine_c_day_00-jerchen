@@ -1,0 +1,2 @@
+ldapsearch "cn<=z"
+
